@@ -1,0 +1,1 @@
+# micronaut_embedded_issue
